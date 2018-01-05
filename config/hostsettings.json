@@ -1,0 +1,19 @@
+{
+  "Host": {
+    "TrexPairsLocation": "",
+    "PoloPairsLocation": "",
+    "BinancePairsLocation": "/home/cpalmer/ProfitTrailer/trading",
+    "HostName": "BINANCE",
+    "LicenseKey": "YOUR LICENSE KEY",
+    "ServerUrls": "http://localhost:8083",
+    "MarketConditionCheckInMinutes": "6",
+    "CalculateTrailingValues": "true",
+    "UseMaxCostPercentage": "true",
+    "UseMinBuyBalancePercentage": "true",
+    "TelegramBotId": "546605405:AAHn6DPMz8T166ZCnukmUtPnYvaEbnUB5o0",
+    "TelegramChatId": "517156750"
+  },
+  "Serilog": {
+    "MinimumLevel": "Information"
+  }
+}
